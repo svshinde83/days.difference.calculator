@@ -1,4 +1,4 @@
  To calculate the difference in days between 2 dates:
-
- 1. Run the DaysOfTheYearCalculations on a command line terminal.
- 2. Follow the instructions.
+ 1. Install Java 8 and latest Maven - set paths etc.
+ 2. Run the DaysOfTheYearCalculations on a command line terminal or in an IDE like eclipse or intellij.
+ 3. Follow the instructions.
