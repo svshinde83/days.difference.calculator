@@ -1,4 +1,4 @@
-package org.test.days.dto;
+package com.abc.days.dto;
 
 /**
  * Created by svshinde83 on 20/01/2017.

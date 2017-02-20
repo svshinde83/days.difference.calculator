@@ -1,7 +1,8 @@
-package org.test.days.validations;
+package com.abc.days.validations;
 
-import org.test.days.dto.UserDate;
-import org.test.days.util.DateUtils;
+
+import com.abc.days.dto.UserDate;
+import com.abc.days.util.DateUtils;
 
 /**
  * Created by svshinde83 on 20/01/2017.
